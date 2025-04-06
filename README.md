@@ -1,4 +1,4 @@
-#Hi there! 👋 I'm Adham Allam
+# Hi there! 👋 I'm Adham Allam
 
 I'm currently a Computer Science and Engineering student enrolled in a double degree program between the German University in Cairo (GUC) and the German International University (GIU) in Berlin. I'm in my last semester and actively working as a Working Student Researcher in the XAI (Explainable Artificial Intelligence) team at Fraunhofer HHI, Germany.
 
