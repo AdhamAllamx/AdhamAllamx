@@ -1,16 +1,45 @@
-## Hi there 👋
+#Hi there! 👋 I'm Adham Allam
 
-<!--
-**AdhamAllamx/AdhamAllamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Computer Science and Engineering student enrolled in a double degree program between the German University in Cairo (GUC) and the German International University (GIU) in Berlin. I'm in my last semester and actively working as a Working Student Researcher in the XAI (Explainable Artificial Intelligence) team at Fraunhofer HHI, Germany.
 
-Here are some ideas to get you started:
+🌟 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Completing my final semester of the double degree program.
+
+🧠 Researching Explainable AI techniques like Layer-wise Relevance Propagation (LRP) and Concept Relevance Propagation (CRP).
+
+💻 Building an interactive XAI web application for research demonstration.
+
+💼 Professional Experience
+
+Working Student Researcher at Fraunhofer HHI (XAI Team) - Focusing on Explainable AI research.
+
+🌱 I'm currently learning
+
+Advanced concepts in Explainable AI.
+
+Cutting-edge Machine Learning and Deep Learning techniques.
+
+Full MERN stack development.
+
+Data engineering pipelines.
+
+Game development.
+
+Embedded AI engineering using microcontrollers.
+
+💡 Interests
+
+I love AI, Machine Learning, Data Engineering, and working on various projects.
+
+I've worked on full MERN stack projects, data engineering pipelines, game development, and embedded AI engineering using microcontrollers.
+
+📫 How to reach me
+
+LinkedIn: Your LinkedIn Profile
+
+Email: [Your Email Address]
+
+⚡ Fun fact
+
+I love combining AI research with practical applications to make systems more transparent and trustworthy.
