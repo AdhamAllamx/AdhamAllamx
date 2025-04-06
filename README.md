@@ -36,9 +36,9 @@ I've worked on full MERN stack projects, data engineering pipelines, game develo
 
 📫 How to reach me
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: https://www.linkedin.com/feed/
 
-Email: [Your Email Address]
+Email: adham.allam.x@gmail.com
 
 ⚡ Fun fact
 
