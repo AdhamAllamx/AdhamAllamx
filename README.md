@@ -8,7 +8,6 @@ I'm currently a Computer Science and Engineering student enrolled in a double de
 
 🧠 Researching Explainable AI techniques like Layer-wise Relevance Propagation (LRP) and Concept Relevance Propagation (CRP).
 
-💻 Building an interactive XAI web application for research demonstration.
 
 💼 Professional Experience
 
@@ -17,6 +16,8 @@ Working Student Researcher at Fraunhofer HHI (XAI Team) - Focusing on Explainabl
 🌱 I'm currently learning
 
 Advanced concepts in Explainable AI.
+
+Deep Learning & Neural Networks 
 
 Cutting-edge Machine Learning and Deep Learning techniques.
 
