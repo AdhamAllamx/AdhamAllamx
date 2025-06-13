@@ -13,15 +13,17 @@ I'm currently a Computer Science and Engineering student enrolled in a double de
 
 Working Student Researcher at Fraunhofer HHI (XAI Team) - Focusing on Explainable AI research.
 
+DevOps Engineer at Smart Data PREVISEC Deutschland GmbH.
+
 Cloud Computing Engineer intern at EJADA Systems.
 
-DevOps Engineer intern at National Bank of Egypt NBE 
+DevOps Engineer intern at National Bank of Egypt NBE.
 
-Software Engineer Intern at Orange 
+Software Engineer Intern at Orange.
 
 Cisco CCNA training program at Telecom Egypt 
 
-🌱 I'm currently learning
+🌱 I'm currently learning:
 
 Advanced concepts in Explainable AI.
 
@@ -30,6 +32,8 @@ Deep Learning & Neural Networks
 Cutting-edge Machine Learning and Deep Learning techniques.
 
 Full MERN stack development.
+
+DevOps CI/CD.
 
 Data engineering pipelines.
 
@@ -49,6 +53,3 @@ LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/in/adham-all
 
 Email: adham.allam.x@gmail.com
 
-⚡ Fun fact
-
-I love combining AI research with practical applications to make systems more transparent and trustworthy.
